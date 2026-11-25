@@ -6,3 +6,5 @@ I am Harshavardhan Reddy S Patil, currently pursuing B.Tech in Computer Science 
 Learning C++, Data Structures and Algorithms, React and Web Development.
 
 Interested in IoT, Cybersecurity, Web Development and Hardware Integration.
+
+Goal: Build practical projects, participate in hackathons and secure an internship by my fourth semester.
