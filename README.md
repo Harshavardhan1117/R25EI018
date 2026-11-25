@@ -19,3 +19,11 @@ A web-based sports tournament management application featuring team management, 
 
 ### 3. IoT Gaming Controller
 An ESP32-based custom gaming controller integrating multiple joysticks, buttons and an MPU6050 motion sensor for interactive control.
+
+## Collaboration Log
+
+**Activity:** Collaborative coding practice using VS Code Live Share and GitLens.
+
+**What I Built:** Created a C greet() function that accepts a name and prints a personalized welcome message.
+
+**What I Learned:** Learned how Live Share supports real-time code editing and how GitLens helps inspect commit history and line authorship.
